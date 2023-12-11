@@ -57,3 +57,7 @@ Alerting and Visualization:
 
 Set up alerts in Splunk for detected intrusions.
 Create dashboards in Splunk for monitoring and visualization.
+
+Contributing
+Contributions to this project are welcome, as it is open-source and intended for educational purposes. Feel free to fork the repository, make improvements, and submit pull requests.
+
